@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Joshi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.88.0"
+  }
+}
